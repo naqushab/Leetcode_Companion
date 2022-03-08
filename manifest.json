@@ -2,7 +2,7 @@
   "name": "Leetcode Companion",
   "version": "0.1",
   "description": "Help Leetcode users to solve problems",
-  "permissions": ["activeTab", "declarativeContent", "storage"], 
+  "permissions": ["activeTab", "declarativeContent", "storage", "alarms"], 
   "background": {
       "scripts": ["background.js"],
       "persistent": false
